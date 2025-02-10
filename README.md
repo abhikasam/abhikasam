@@ -1,4 +1,7 @@
-<h1 align="left">Hi 👋, I'm Abhinav Kasam</h1>
+<p align="center" >
+  <img src="https://github.com/abhikasam/abhikasam/blob/main/assets/images/eat_sleep_code_repeat.jpg" alt="abhikasam" />
+</a>
+<h1 align="left">Hi 👋 I'm Abhinav Kasam</h1>
 <h3 align="left">A passionated backend developer, experiments various languages, proficient at Java, C#, JavaScript, Python. I'm a backend developer from .NET, Spring and NodeJs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhikasam&label=Profile%20views&color=0e75b6&style=flat" alt="abhikasam" /> </p>
